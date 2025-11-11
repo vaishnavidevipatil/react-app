@@ -16,3 +16,16 @@ The `useReducer` hook in React is a powerful alternative to `useState` for manag
 To run this react app, follow these steps:
 1. npm start
 2. npx json-server --watch db.json --port 5000
+
+Learnings:
+1. Understanding of React hooks and their use cases.
+2. State management using useReducer.
+
+In card 1, I learned about the useRef hook and its applications in accessing DOM elements and storing mutable values.
+
+In card 2, I explored the useContext hook, which helped me understand how to share data across components without prop drilling.
+
+In card 3, I delved into the useMemo hook, learning how to optimize performance by memoizing expensive computations.
+
+In card 4, I studied the useReducer hook, which provided insights into managing complex state logic in a more structured way.
+
